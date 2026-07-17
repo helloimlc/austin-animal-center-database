@@ -25,7 +25,7 @@ This project uses the **Austin Animal Center Outcomes** dataset published by the
 
 Dataset Source:
 
-https://data.austintexas.gov/
+[https://data.austintexas.gov/](https://www.kaggle.com/datasets/aaronschlegel/austin-animal-center-shelter-intakes-and-outcomes)
 
 A cleaned sample dataset (`animal_clean_sample.csv`) is included in this repository for demonstration and reproducibility.
 
